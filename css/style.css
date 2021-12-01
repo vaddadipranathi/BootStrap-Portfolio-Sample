@@ -1,0 +1,115 @@
+.fa {
+	color: #3949ab;
+	padding: 10px;
+}
+.row1 {
+	margin-bottom: 10px;
+	margin-left: 100px;
+}
+.row2 {
+	margin-right: 100px;
+}
+.txt-color {
+	color: #3949ab;
+}
+.space {
+	padding-left: 270px;
+	padding-right: 270px;
+}
+.space1 {
+	margin-left: 270px;
+	margin-right: 270px;
+}
+.heading4 {
+	font: bold;
+	color: white;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.h1 {
+	font-family: sans-serif;
+}
+.space {
+	padding: 0;
+}
+.fig-caption {
+	font-size: 35px;
+	padding-top: 100px;
+	color: white;
+	padding-left: 40px;
+}
+.aboutme {
+	background-color: #3949ab;
+	margin-left: 270px;
+	margin-right: 270px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.p1 {
+	padding-left: 10px;
+	padding-right: 10px;
+	color: white;
+}
+.p4 {
+	padding-left: 500px;
+	padding-right: 500px;
+}
+.icons {
+	padding-right: 18px;
+	font-size: 20px;
+}
+.row3 {
+	padding: 10px;
+}
+.contactform {
+	color: #3949ab;
+	padding-top: 50px;
+	text-align: center;
+	font-size: 40px;
+	padding-bottom: 20px;
+}
+.h21 {
+	color: #3949ab;
+	font-size: 25px;
+}
+.para {
+	font-size: 25px;
+	color: #3949ab;
+}
+.p3 {
+	color: white;
+}
+.header-sec {
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+.design-sec {
+	margin-bottom: 40px;
+}
+.footbar-sec {
+	background-color: black;
+	padding-bottom: 160px;
+	margin-left: 65px;
+	margin-right: 65px;
+}
+.contactme-sec {
+	padding-top: 80px;
+	padding-bottom: 40px;
+}
+.profile-sec {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.profile-sec1 {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.myWorks-sec {
+	margin-left: 63px;
+	margin-right: 63px;
+}
+.icons2 {
+	padding: 10px;
+	font-size: 30px;
+	color: #3949ab;
+}
